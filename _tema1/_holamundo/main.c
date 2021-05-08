@@ -1,5 +1,5 @@
 #include <stdio.h> /*Directiva Standard Input/Ouput */
-#include <conio.h>
+#include <conio.h> /*Uso getch*/
 
 /*Programa Hola Mundo!*/
 //Esto tambien es un comentario.
